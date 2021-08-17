@@ -1,3 +1,3 @@
 # ayushyadav.github.io
-My Resume Website 
+My Portfolio Website 
 https://ayushyadav29.github.io/ayushyadav.github.io/
